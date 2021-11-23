@@ -12,7 +12,20 @@
  8. [Mostrar cadena en vertical](./script/8.md).
  9. [Pirámide de asteriscos](./script/9.md).
  10. [Cálculo de la letra de DNI](./script/10.md).
+ 11. [Gestion de clientes [👁👷‍♂️]](./script/11.md).
+ 12. [Propiedades de documentos](./script/12.md).
+ 13. [Calculadora gráfica](./script/13.md).
+ 14. [Comprobar seguridad de contraseña](./script/14.md).
+ 15. [Conversión de tiempo](./script/15.md).
+ 16. [Archivo con nombres de archivo teniendo extensión dada](./script/16.md).
+ 17. [Visualizar datos de red del equipo](./script/17.md).
+ 18. [Gestión de biblioteca con tabla hash](./script/18.md).
 
+
+Leyenda:
+
+ * 👁: Con interfaz gráfica
+ * 👷‍♂️: Scripts no terminados
 
 
 ## ¿Qué esperar?
@@ -22,13 +35,17 @@
 ### Agradecimentos
 
 Ejercicios facilitados por el profesorado de 2º ASIR. 
+
 Imagen ./utils/honesto.png descargada de Internet. Se desconoce autoría. 
+
 Lista de ComandLets facilitada por el profesorado de 2º ASIR. 
+
+Scripts [13](./script/13.md), [14v2](./script/14.md) y [16v2](./script/16.md) cortesía de @Angelocho.
 
 ### Licencia
 
 Esta obra se publica bajo la licenca **Creative Commons BY 2.5 ES**.
 
-Autor y año de publicación: Pablo González, 2021
+Autores y año de publicación: Pablo González y colaboradores, 2021. 
 
 Más información en [el archivo de licencia](./license.md).
